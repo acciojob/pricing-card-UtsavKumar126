@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:#F1F1F1;
+	height:550px;
+	width:400px;
+}
+.image{
+	height:200px;
+	margin-left:40px;
+	margin-top:40px
+}
+.button{
+	border-radius:20px;
+	background-color:rgb(254,99,91);
+	color:white;
+	padding: 15px 32px;
+	font-size:30px;
+}
